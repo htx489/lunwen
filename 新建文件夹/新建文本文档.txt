@@ -1,0 +1,19 @@
+021_td_hj_tdsg
+021_td_hj_yw     山火烟雾
+
+021_xccjj_xd_qx  小尺寸金具_缺销钉
+021_xjj_xd_qx  小尺寸金具_缺销钉
+
+挖掘机
+吊车
+泵车
+铲车
+021_jyz_bt_ps   绝缘子破损
+021_tdhj_xxsgwpyh_td 通道_塔吊
+
+021_fsss_fnzz_sh 附属设施_防鸟装置_损坏
+021_jyz_bt_zb  绝缘子自爆
+021_gt_ts_yw  杆塔_异物
+021_ddx_bt_sg 导地线_松股
+021_td_hj_sh  山火烟雾
+021_xjj_xd_azbdw  小尺寸金具_销钉安装不到位
